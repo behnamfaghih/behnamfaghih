@@ -12,7 +12,7 @@ Experienced full-stack software and data engineer engineer with a strong history
 ![](https://nirzak-streak-stats.vercel.app/?user=behnamfaghih&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=behnamfaghih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
