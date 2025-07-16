@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ℹ️ About Me:
 Experienced full-stack software and data engineer engineer with a strong history of delivering scalable, high-performance solutions. I come from a background of building scalable applications using the .NET stack, Python, Angular, and SQL-based databases and have a proven history of database optimisation and creating dynamic web solutions for various industries.<br><br>I love to learn and to work on challenging projects as part of a team. An early adopter and utilizer of new technologies and a noted problem solver, I’m a driving force dedicated to fulfilling and surpassing project requirements and timelines.
 
 
